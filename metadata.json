@@ -1,0 +1,6 @@
+{
+  "name": "LinkStash",
+  "description": "A fast, customizable bookmark manager with smart collections, tagging, instant search, and themeable light and dark modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
